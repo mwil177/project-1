@@ -8,7 +8,7 @@ Project Description: Correlate movies rating with year, director, run time and r
 
 Research Questions: 
 
-1. When using the website Random Lists and accessing the random movie generator what kind and how good are the movies?
+1. When using the website Random Lists and accessing the random movie generator, what kind and how good are the movies?
 
 2. What genres of movies do you get?
 
